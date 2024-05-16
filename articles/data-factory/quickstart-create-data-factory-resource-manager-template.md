@@ -4,12 +4,12 @@ description: Create a sample Azure Data Factory pipeline using an Azure Resource
 ms.service: data-factory
 ms.subservice: tutorials
 tags: azure-resource-manager
-author: ssabat
-ms.author: susabat
-ms.reviewer: jburchel, jingwang
-ms.topic: quickstart
-ms.custom: subject-armqs, mode-arm, devx-track-arm-template
-ms.date: 10/20/2023
+author: mkumar
+author: mkumar
+reviewer: mkumar, cbhupal
+topic: quickstart
+custom: subject-armqs, mode-arm, devx-track-arm-template
+date: 10/20/2023
 ---
 
 # Quickstart: Create an Azure Data Factory using ARM template
